@@ -44,7 +44,7 @@ I sent equal amount of money to all three employees. Check my Genache for amende
 
 In this contract, rather than splitting the profits between Associate-level employees, I calculated rudimentary percentages for different tiers of employees (CEO, CTO, and Bob).
 
-![daeploy](TieredProfitSplitter.sol/deploy.png)
+![deploy](TieredProfitSplitter.sol/deploy.png)
 
 * Deploy and test the contract functionality by depositing various Ether values (greater than 100 wei).
 
@@ -64,7 +64,7 @@ In this contract, I managed an employee's "deferred equity incentive plan" in wh
 
   * Specific vesting periods, the dollar/crypto value of shares awarded, and the percentage equity stake (the percentage ownership of the company) all tend to vary according to the company, the specialized skills, or seniority of the employee, and the negotiating positions of the employee/company. If you receive an offer from a company offering equity (which is great!), just make sure you can clarify the current dollar value of those shares being offered (based on, perhaps, valuation implied by the most recent outside funding round). In other words, don’t be content with just receiving “X” number of shares without having a credible sense of what amount of dollars that “X” number represents. Be sure to understand your vesting schedule as well, particularly if you think you may not stick around for an extended period of time.
 
-![daeploy](DeferredEquityPlan.sol/deploy.png)
+![deploy](DeferredEquityPlan.sol/deploy.png)
 
 * Deploy and test your contract locally.
 
