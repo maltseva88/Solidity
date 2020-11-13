@@ -68,8 +68,6 @@ In this contract, I managed an employee's "deferred equity incentive plan" in wh
 
 * Deploy and test your contract locally.
 
-  * For this contract, test the timelock functionality by adding a new variable called `uint fakenow = now;` as the first line of the contract, then replace every other instance of `now` with `fakenow`. Utilize the following `fastforward` function to manipulate `fakenow` during testing.
-
 ![contract_interaction](DeferredEquityPlan.sol/contract_interaction.png)
 
 I tried to ditribute shares four times and got 1000 units of cotracts: 
